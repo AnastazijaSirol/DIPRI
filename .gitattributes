@@ -1,0 +1,26 @@
+# Unity-specific files
+*.psd binary
+*.png binary
+*.jpg binary
+*.tga binary
+*.mp3 binary
+*.ogg binary
+*.wav binary
+*.fbx binary
+*.prefab binary
+*.unity binary
+*.mat binary
+*.shader binary
+*.ttf binary
+*.otf binary
+
+# Text files
+*.txt text eol=lf
+*.md text eol=lf
+*.json text eol=lf
+*.xml text eol=lf
+*.cs text eol=lf
+*.shader text eol=lf
+
+# Ensure proper line endings on different systems
+* text=auto
